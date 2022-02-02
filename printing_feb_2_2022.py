@@ -1,0 +1,1 @@
+print("This is a Sample python code to check git commits")
